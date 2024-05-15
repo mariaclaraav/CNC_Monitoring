@@ -1,2 +1,2 @@
-# CNC_Monitoring
- Condition Monitoring of Bosch CNC milling machine data
+# CNC_ConditionMonitoring
+ Condition Monitoring for CNC Machining data from Bosch
