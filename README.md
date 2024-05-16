@@ -1,7 +1,7 @@
 # CNC_ConditionMonitoring
 
 ### Overview
-This repository contains the first case study from my master's thesis, which focuses on enhancing feature engineering techniques for applications in Prognostics and Health Management (PHM). This case study is based on the analysis of vibration data from a CNC milling machine, as proposed by Tnani, Feil, and Diepold (2022).
+This repository contains the first case study from my master's thesis (still working on it), which focuses on enhancing feature engineering techniques for applications in Prognostics and Health Management (PHM). This case study is based on the analysis of vibration data from a CNC milling machine, as proposed by Tnani, Feil, and Diepold (2022).
 
 ## Case Study Description
 ### Data Collection
